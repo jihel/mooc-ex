@@ -1,2 +1,3 @@
 this is the settings for initialize the APP
 use to change scope
+add new environment for testing
