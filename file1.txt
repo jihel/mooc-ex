@@ -1,0 +1,5 @@
+this is the entry file for the new App
+
+init
+setup
+run
